@@ -1,10 +1,10 @@
-# SparseTG_GS
+# SparseAG_GS
 
 **<p align="center">An efficient and sparse adversarial test case generation method for CV(computer Vision) software</p>**
 
 <p align="center">Code release and supplementary materials for：</p>
 
-**<p align="center">"SparseTG-GS: Adversarial Test Case Generation via Sparse Perturbation Group"</p>**
+**<p align="center">"SparseAG-GS: Adversarial Test Case Generation via Sparse Perturbation Group"</p>**
 
 ## Datasets
 - [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html)
